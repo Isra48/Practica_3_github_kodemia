@@ -9,3 +9,5 @@
 7.archivo y hacer un commit con los cambios
 8.Cada uno debe subir su rama y sus cambios al repositorio de GitHub
 Un integrante del equipo, comparta la liga del repo en slack
+
+samperera
